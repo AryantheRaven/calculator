@@ -20,8 +20,8 @@ A simple, dependency-free command-line calculator written in Python. Chain toget
 Clone the repository and you're ready to go — no extra packages required:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/AryantheRaven/calculator.git
+cd calculator
 ```
 
 ## Usage
@@ -101,7 +101,8 @@ Type `q` at any prompt to exit the program immediately.
 ```
 .
 ├── calculator.py   # The calculator's source code
-└── README.md       # This file
+├── README.md       # This file
+└── LICENSE         # MIT License
 ```
 
 ## Contributing
